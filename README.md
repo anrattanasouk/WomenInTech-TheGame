@@ -1,2 +1,2 @@
 # WomenInTech-TheGame
-# Under anrattanasouk/inspire
+# under anrattanasouk/inspire
